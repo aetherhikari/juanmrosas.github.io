@@ -44,10 +44,6 @@ body, html {
   background-size: cover !important;
 }
 
-.back-home {
-  background-color: #233D4D;
-}
-
 .present {
   font-size: 60px;
   margin-bottom: -2rem;
@@ -94,7 +90,7 @@ body, html {
 }
 
 .jobs {
-  margin-top: 9rem;
+  margin-top: 7rem;
   display: block;
 }
 
@@ -124,8 +120,8 @@ body, html {
 }
 
 .tab button.active {
-  color: var(--var-background);
-  background-color: var(--var-label-color);
+  color: var(--var-charcoal);
+  background-color: var(--var-olivine);
 }
 
 .tabcontent {
